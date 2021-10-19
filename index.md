@@ -1,6 +1,6 @@
 # Debasmita Bhattacharya 
 
-Hello! I'm a Master of Engineering student in computer science at Cornell
+Hello! I'm a Master of Engineering student in computer science at Cornell, working on code-switching
 
 You can use the [editor on GitHub](https://github.com/d-bhattacharya/d-bhattacharya.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files. 
 
