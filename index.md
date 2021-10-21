@@ -1,3 +1,9 @@
+---
+layout: home
+profile_picture:
+  src: profile_pic.jpg
+  alt: website picture
+---
 
 # Debasmita Bhattacharya
 
