@@ -19,4 +19,4 @@ header:
     - name: Home
       slug: index.md     # <-- index.md
     - name: Research  # <-- blog.md
-    - name: Misc  # <-- whatever.md
+    - name: Misc  # <-- misc.md
