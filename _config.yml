@@ -1,7 +1,7 @@
 remote_theme: eliottvincent/bay
 
 title: Debasmita Bhattacharya
-baseurl: "/db" # the subpath of the site
+#baseurl: "/db" # the subpath of the site
 url: "https://d-bhattacharya.github.io/" # the base hostname & protocol for the site
 
 footer:
