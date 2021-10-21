@@ -11,3 +11,9 @@ footer:
     - name: LinkedIn
       link: https://www.linkedin.com/in/debasmita-bhattacharya-9583a2154/
     
+header:
+  pages:
+    - name: Home
+      slug: index.md     # <-- index.md
+    - name: Research  # <-- blog.md
+    - name: Misc  # <-- whatever.md
