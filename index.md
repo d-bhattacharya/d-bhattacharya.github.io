@@ -3,7 +3,7 @@
 ---
 layout: home
 profile_picture:
-  src: profile_pic.jpg
+  src: /profile_pic.jpg
   alt: website picture
 ---
 
