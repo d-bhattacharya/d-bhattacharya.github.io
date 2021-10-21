@@ -1,4 +1,3 @@
-# Debasmita Bhattacharya 
 
 ---
 layout: home
