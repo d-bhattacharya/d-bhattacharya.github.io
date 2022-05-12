@@ -2,7 +2,7 @@ remote_theme: eliottvincent/bay
 
 title: DB | Columbia CS
 #baseurl: "/db" # the subpath of the site
-url: "https://d-bhattacharya.github.io/" # the base hostname & protocol for the site
+url: "https://d-bhattacharya.github.io" # the base hostname & protocol for the site
 
 footer:
   show_powered_by: true
