@@ -17,8 +17,8 @@ footer:
 header:
   pages:
     - name: Home
-      slug: index.md
+      slug: /index.md
     - name: Research  
-      slug: work.md
+      slug: /work.md
     - name: Misc  
-      slug: blog.md
+      slug: /blog.md
