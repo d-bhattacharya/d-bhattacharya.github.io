@@ -19,6 +19,4 @@ header:
     - name: Home
       slug: /
     - name: Research  
-      slug: work.md
     - name: Teaching 
-      slug: blog.md
