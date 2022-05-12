@@ -4,7 +4,7 @@ profile_picture:
   src: profile_pic.jpg
   alt: website picture
 ---
-  # DEBASMITA BHATTACHARYA
+# DEBASMITA BHATTACHARYA
   
   Hello! I'm an incoming PhD student in computer science at Columbia University. I am grateful to be advised by Professor Julia Hirschberg in the Spoken Language Processing Group. My broad research interests lie in natural language processing, [computational linguistics](https://aclanthology.org/2020.conll-1.39.pdf), and [computational](https://arxiv.org/pdf/1905.12516.pdf) [social science](https://arxiv.org/pdf/2005.13041.pdf). 
   
