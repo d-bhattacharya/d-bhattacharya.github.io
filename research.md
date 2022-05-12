@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Research
+title: RESEARCH
 slug: /research
 items:
   - title: My Interest 1
@@ -21,7 +21,7 @@ I am currently working on Chinese-English code-switching at [C.Psyd](https://c-p
 
 For a full list of publications, please see my [Google Scholar](https://scholar.google.com/citations?user=EOkUV58AAAAJ&hl=en) page. 
 
-### NEWS: 
+### News: 
 Summer 2022: I will be participating in a JSALT summer workshop on code-switching!
 
 
