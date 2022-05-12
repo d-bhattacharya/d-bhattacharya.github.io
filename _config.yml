@@ -17,7 +17,7 @@ footer:
 header:
   pages:
     - name: Home
-      slug: index.md
+      slug: /
     - name: Research  
       slug: work.md
     - name: Teaching 
