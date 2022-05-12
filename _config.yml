@@ -17,6 +17,6 @@ footer:
 header:
   pages:
     - name: Home
-      slug: /
-    - name: Research  
-    - name: Teaching 
+      slug: /     # <-- index.md
+    - name: Research  # <-- blog.md
+    - name: Teaching  # <-- whatever.md
