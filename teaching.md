@@ -3,6 +3,7 @@ layout: blog
 slug: /teaching
 ---
 
+## Cornell
 Spring 2021: CS 4300 - Language and Information <br />
 Fall 2020: CS 4740 - Natural Language Processing | CHEM 2090 - Engineering General Chemistry <br />
 Spring 2020: CS 2110 - Object-Oriented Programming and Data Structures <br />
