@@ -19,7 +19,7 @@ This page is under construction.
 
 
 ## NEWS: 
-Summer 2022: I will be participating in a JSALT summer workshop on code-switching. 
+Summer 2022: I will be participating in a JSALT summer workshop on code-switching!
 
 For a full list of publications, please see my [Google Scholar](https://scholar.google.com/citations?user=EOkUV58AAAAJ&hl=en) page. 
 <br />
