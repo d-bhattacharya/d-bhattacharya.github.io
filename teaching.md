@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Teaching
+title: TEACHING
 slug: /teaching
 ---
 
