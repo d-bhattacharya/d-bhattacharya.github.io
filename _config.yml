@@ -17,5 +17,5 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
-    - name: Work  # <-- blog.md
-    - name: Blog  # <-- whatever.md
+    - name: Research # <-- blog.md
+    - name: Teaching  # <-- whatever.md
