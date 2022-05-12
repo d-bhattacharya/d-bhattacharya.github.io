@@ -22,5 +22,5 @@ I am currently working on Chinese-English code-switching at [C.Psyd](https://c-p
 For a full list of publications, please see my [Google Scholar](https://scholar.google.com/citations?user=EOkUV58AAAAJ&hl=en) page. 
 
 ### News: 
-Summer 2022: I will be participating in a JSALT summer workshop on [multilingual and code-switching speech recognition](https://www.clsp.jhu.edu/multilingual-and-code-switching/)!
+Summer 2022: I will be participating in a [JSALT](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/) summer workshop on [multilingual and code-switching speech recognition](https://www.clsp.jhu.edu/multilingual-and-code-switching/)!
 
