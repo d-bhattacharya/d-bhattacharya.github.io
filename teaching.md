@@ -2,6 +2,7 @@
 layout: blog
 slug: /teaching
 ---
+# TEACHING
 
 ## Cornell
 Spring 2021: CS 4300 - Language and Information <br />
