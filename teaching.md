@@ -12,5 +12,4 @@ Spring 2019: PHYS 112 - Physics I: Mechanics and Heat <br />
 Fall 2018: Girls Who Code with Women in Computing at Cornell (WICC) <br />
 
 ## Other
-Spring 2022: <br />
 Summer 2019: [First Code Academy](https://www.firstcodeacademy.com/) <br />
