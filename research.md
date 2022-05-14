@@ -18,5 +18,5 @@ items:
 For a full list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=EOkUV58AAAAJ&hl=en) page. 
 
 ### News: 
-Summer 2022: I will be participating in the [JSALT](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/) workshop on [multilingual and code-switching speech recognition](https://www.clsp.jhu.edu/multilingual-and-code-switching/)!
+Summer 2022: I will be participating in the [JSALT 2022](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/) workshop on [multilingual and code-switching speech recognition](https://www.clsp.jhu.edu/multilingual-and-code-switching/)!
 
