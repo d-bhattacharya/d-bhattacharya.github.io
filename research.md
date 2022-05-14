@@ -4,11 +4,11 @@ title: RESEARCH
 slug: /research
 
 ### Current Work
-[[cs.png|width=100px]]
+<img src="https://cs.png" width="100">
 I am currently working on Chinese-English code-switching at [C.Psyd](https://c-psyd.github.io/).
 
 ### Previous Work
-[[al.jpg|width=200px]]
+<img src="https://al.jpg" width="200">
 Previously, I investigated [how well neural networks "understand" abstract English syntax](https://aclanthology.org/2020.conll-1.39.pdf). I have also worked on [racial bias](https://arxiv.org/pdf/1905.12516.pdf?ref=https://githubhelp.com) and [abusive language](https://arxiv.org/pdf/2005.13041.pdf). 
 
 For a full list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=EOkUV58AAAAJ&hl=en) page. 
