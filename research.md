@@ -7,7 +7,7 @@ items:
     image:
       src: cs.png
       alt: code-switching
-    description: I am currently working on Chinese-English code-switching at <a href="https://c-psyd.github.io/">C.Psyd</a>.
+    description: I am currently working on Spanish-English and Mandarin-English code-switching.
   - title: Previous Work
     image:
       src: al.jpg
