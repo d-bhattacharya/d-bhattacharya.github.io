@@ -7,7 +7,7 @@ items:
     image:
       src: cs.png
       alt: code-switching
-    description: I am currently working on Spanish-English and Mandarin-English code-switching.
+    description: I am currently examining the relationship between spoken code-switching and other aspects of language production, including empathy and entrainment. I am also exploring written code-switching from the perspective of psycholinguistic information theory. 
   - title: Previous Work
     image:
       src: al.jpg
