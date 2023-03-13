@@ -4,6 +4,9 @@ title: TEACHING
 slug: /teaching
 ---
 
+### Columbia
+Spring 2023: Advanced Topics in Spoken Language Processing <br />
+
 ### Cornell
 Spring 2021: CS 4300 - Language and Information <br />
 Fall 2020: CS 4740 - Natural Language Processing | CHEM 2090 - Engineering General Chemistry <br />
