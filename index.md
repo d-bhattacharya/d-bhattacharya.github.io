@@ -2,7 +2,7 @@
 layout: home
 profile_picture:
   src: profile_pic.jpg
-  alt: website picture
+  alt: profile picture
 ---
 
 # DEBASMITA BHATTACHARYA
