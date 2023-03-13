@@ -7,7 +7,7 @@ items:
     image:
       src: cs.png
       alt: code-switching
-    description: I am currently examining the relationship between spoken code-switching and other aspects of language production, including empathy and entrainment. I am also exploring written code-switching from the perspective of psycholinguistic information theory. 
+    description: I am currently examining the relationship between spoken code-switching and other aspects of language production, including empathy and entrainment. I am also exploring written code-switching from the perspective of psycholinguistic information theory. Separate from code-switching, I am interested in measuring the linguistic notion of formality in speech. 
   - title: Previous Work
     image:
       src: al.jpg
