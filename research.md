@@ -20,4 +20,5 @@ This page is under construction.
 For a full list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=EOkUV58AAAAJ&hl=en&authuser=2) page. 
 
 ### News: 
-Summer 2022: I will be participating in the [JSALT 2022](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/) workshop on [multilingual and code-switching speech recognition](https://www.clsp.jhu.edu/multilingual-and-code-switching/)!
+March 2023: I am presenting my information-theoretic work on [why](https://drive.google.com/file/d/1eQKUZO3zs4Hmzm8io7kPhimBpO3BKW-d/view?usp=sharing) and [how](https://drive.google.com/file/d/1GEUtgCu7sFvSetGI_OjTWv1G_2LLiJDh/view?usp=sharing) bilinguals code-switch between Mandarin and English at the [Human Sentence Processing](https://lrdc.pitt.edu/HSP2023/) Conference in Pittsburgh! <br />
+June 2022: I am participating in the [JSALT 2022](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/) workshop on [multilingual and code-switching speech recognition](https://www.clsp.jhu.edu/multilingual-and-code-switching/)!
