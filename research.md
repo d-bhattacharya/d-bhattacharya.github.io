@@ -23,7 +23,7 @@ For a full list of my publications, please see my [Google Scholar](https://schol
 August 2023: I am presenting my work on formality in speech across domains and languages at [INTERSPEECH](https://interspeech2023.org/) in Dublin! <br />
 
 
-April 2023: I am attending the [CRA-WP Grad Cohort Workshop for Women](https://cra.org/cra-wp/grad-cohort-for-women/) in San Francisco! <br />
+April 2023: I am attending the [CRA-WP Grad Cohort Workshop for Women](https://cra.org/cra-wp/grad-cohort-for-women/) in San Francisco. <br />
 
 
 March 2023: I am presenting my information-theoretic work on [why](https://drive.google.com/file/d/1eQKUZO3zs4Hmzm8io7kPhimBpO3BKW-d/view?usp=sharing) and [how](https://drive.google.com/file/d/1GEUtgCu7sFvSetGI_OjTWv1G_2LLiJDh/view?usp=sharing) Chinese-English bilinguals code-switch in writing at the [Human Sentence Processing](https://lrdc.pitt.edu/HSP2023/) Conference in Pittsburgh. I have also been invited to give a talk at the [Second Workshop on Processing and Evaluating Event Representations](https://peer-workshop.github.io/) in Rochester. <br />
