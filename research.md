@@ -17,7 +17,7 @@ items:
 This page is under construction. 
 
 
-For a full list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=EOkUV58AAAAJ&hl=en&authuser=2) page. 
+For a full list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=EOkUV58AAAAJ&hl=en) page. 
 
 ### News: 
 June 2024: I am presenting my work on [measuring entrainment in spontaneous code-switched speech](https://drive.google.com/file/d/1quFYks65WHuJflX2KV8rLtCiRIHiKSHD/view?usp=sharing) at [NAACL](https://2024.naacl.org/) in Mexico City! <br />
