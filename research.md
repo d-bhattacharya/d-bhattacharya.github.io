@@ -7,7 +7,7 @@ items:
     image:
       src: cs.png
       alt: code-switching
-    description: I am currently examining the relationship between spoken code-switching and other aspects of language production, including empathy and entrainment. I am also exploring written code-switching from the perspective of psycholinguistic information theory. Separate from code-switching, I am interested in measuring the linguistic notion of formality in speech. 
+    description: I am currently studying the paralinguistics of code-switching in speech by examining its relationship with various aspects of language production, including empathy and entrainment. I am also exploring written code-switching from the perspective of psycholinguistic information theory. Separate from code-switching, I am interested in measuring the linguistic notion of formality in speech. 
   - title: Previous Work
     image:
       src: al.jpg
@@ -20,7 +20,10 @@ This page is under construction.
 For a full list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=EOkUV58AAAAJ&hl=en&authuser=2) page. 
 
 ### News: 
-August 2023: I am presenting my work on measuring formality in speech across domains and languages at [INTERSPEECH](https://interspeech2023.org/) in Dublin! <br />
+June 2024: I am presenting my work on measuring entrainment in spontaneous code-switched speech at [NAACL](https://2024.naacl.org/) in Mexico City! <br />
+
+
+August 2023: I am presenting my work on measuring formality in speech across domains and languages at [INTERSPEECH](https://interspeech2023.org/) in Dublin. <br />
 
 
 April 2023: I am attending the [CRA-WP Grad Cohort Workshop for Women](https://cra.org/cra-wp/grad-cohort-for-women/) in San Francisco. <br />
