@@ -23,7 +23,7 @@ For a full list of my publications, please see my [Google Scholar](https://schol
 June 2024: I am presenting my work on [measuring entrainment in spontaneous code-switched speech](https://www.overleaf.com/read/ppvwqxygwgkt#71e96d) at [NAACL](https://2024.naacl.org/) in Mexico City! <br />
 
 
-August 2023: I am presenting my work on measuring formality in speech across domains and languages at [INTERSPEECH](https://interspeech2023.org/) in Dublin. <br />
+August 2023: I am presenting my work on [measuring formality in speech across domains and languages](https://drive.google.com/file/d/1DbgIioUGxJWeT5z782y6t1U3W87OvMGx/view?usp=sharing) at [INTERSPEECH](https://interspeech2023.org/) in Dublin. <br />
 
 
 April 2023: I am attending the [CRA-WP Grad Cohort Workshop for Women](https://cra.org/cra-wp/grad-cohort-for-women/) in San Francisco. <br />
