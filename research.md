@@ -20,7 +20,7 @@ This page is under construction.
 For a full list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=EOkUV58AAAAJ&hl=en&authuser=2) page. 
 
 ### News: 
-June 2024: I am presenting my work on measuring entrainment in spontaneous code-switched speech at [NAACL](https://2024.naacl.org/) in Mexico City! <br />
+June 2024: I am presenting my work on [measuring entrainment in spontaneous code-switched speech](https://www.overleaf.com/read/ppvwqxygwgkt#71e96d) at [NAACL](https://2024.naacl.org/) in Mexico City! <br />
 
 
 August 2023: I am presenting my work on measuring formality in speech across domains and languages at [INTERSPEECH](https://interspeech2023.org/) in Dublin. <br />
