@@ -5,7 +5,7 @@ slug: /teaching
 ---
 
 ### Columbia
-Spring 2023 and 2024: Advanced Topics in Spoken Language Processing <br />
+Spring 2023, Spring 2024, Fall 2024: Advanced Topics in Spoken Language Processing <br />
 
 ### Cornell
 Spring 2021: CS 4300 - Language and Information <br />
