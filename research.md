@@ -20,7 +20,7 @@ This page is under construction.
 For a full list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=EOkUV58AAAAJ&hl=en) page. 
 
 ### News: 
-September 2024: I am presenting my work on [identifying the relationship between empathy and code-switching in speech](https://drive.google.com/file/d/1jY9nog4FyECMXWjAgNphCob_WKy5jsFB/view?usp=sharing) at [INTERSPEECH](https://interspeech2024.org/) in Kos Island! <br />
+September 2024: I am presenting my work on [identifying the relationship between empathy and code-switching in speech](https://drive.google.com/file/d/1jY9nog4FyECMXWjAgNphCob_WKy5jsFB/view?usp=sharing) at [INTERSPEECH](https://interspeech2024.org/) in Kos Island! I will also give an invited talk at Columbia in Topics of Moral Philosophy (PHIL GR9180): Approaches to Applied Ethics — Philosophy of AI.<br />
 
 June 2024: I presented my work on [measuring entrainment in spontaneous code-switched speech](https://drive.google.com/file/d/1quFYks65WHuJflX2KV8rLtCiRIHiKSHD/view?usp=sharing) at [NAACL](https://2024.naacl.org/) in Mexico City. <br />
 
