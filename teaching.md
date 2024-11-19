@@ -6,7 +6,7 @@ slug: /teaching
 
 ### Columbia
 Spring 2023: Advanced Topics in Spoken Language Processing <br />
-Spring and Fall 2024: Advanced Topics in Spoken Language Processing, incl. guest lecture on speech analysis <br />
+Spring and Fall 2024: Advanced Topics in Spoken Language Processing, incl. invited guest lecture on speech analysis <br />
 
 
 ### Cornell
